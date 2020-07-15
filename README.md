@@ -2,10 +2,10 @@
 
 <p>I am a self-taught Front-End Web developer currently learning Full-Stack JavaScript and searching for my first full-time role as a developer.</p>
 
-<h3>Find me on the web 🌎:</h3>
+<h3>Find me on the web 🌎</h3>
 
 <ul>
-  <li>My personal<a href="https://www.lawlawson.com target="_blank"> website:</a></li>
+    <li><a href="https://www.lawlawson.com target="_blank">Website</a></li>
     <li><a href="https://www.linkedin.com/in/lawlawson/" target="_blank">LinkedIn</a></li>
     <li><a href="https://twitter.com/NarhLawson" target="_blank">Twitter </a></li>
 </ul>
