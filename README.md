@@ -5,7 +5,7 @@
 <h3>Find me on the web 🌎</h3>
 
 <ul>
-    <li><a href="https://www.lawlawson.com target="_blank">Website</a></li>
+    <li><a href="https://www.lawlawson.com" target="_blank">Website</a></li>
     <li><a href="https://www.linkedin.com/in/lawlawson/" target="_blank">LinkedIn</a></li>
     <li><a href="https://twitter.com/NarhLawson" target="_blank">Twitter </a></li>
 </ul>
