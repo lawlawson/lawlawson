@@ -1,4 +1,4 @@
-<h2>Front-End Web Developer 👨🏾‍💻</h2>
+<h2>Web Developer 👨🏾‍💻</h2>
 
 <p>I am a self-taught Front-End Web developer currently learning Full-Stack JavaScript and searching for my first full-time role as a developer.</p>
 
