@@ -1,6 +1,6 @@
 <h2>Front-End Web Developer 👨🏾‍💻</h2>
 
-<p>I am a self-taught Front-End Web developer currently learning Full-Stack JavaScript and searching for my first full-time role as a developer.</p>
+<p>I am a self-taught Front-End Web developer learning and searching for my first full-time role as a developer.</p>
 
 <h3>Find me on the web 🌎</h3>
 
