@@ -1,11 +1,3 @@
-<h2>Frontend Web Developer 👨🏾‍💻</h2>
+### Hi there, I'm Lawrence Narh-Lawson and I'm a Frontend Web Developer from London. Feel free to reach out and connect with me through any of my social channels or checkout my blog at https://lawlawson.com/
 
-<p>I am a self-taught Frontend Web developer learning and searching for my first full-time role as a developer.</p>
 
-<h3>Find me on the web 🌎</h3>
-
-<ul>
-    <li><a href="https://www.lawlawson.com" target="_blank">Website</a></li>
-    <li><a href="https://www.linkedin.com/in/lawlawson/" target="_blank">LinkedIn</a></li>
-    <li><a href="https://twitter.com/NarhLawson" target="_blank">Twitter </a></li>
-</ul>
