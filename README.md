@@ -20,6 +20,7 @@ I am a Frontend Web Develpoper from London. I graduated with a Computer Science 
 
 ### Things I am working on now 🤓
 
+- Frontend of a property website built using Next.js, React and Typescript on the frontend (Collaborating with other developers).
 - My portfolio site built using Next.js.
 - Learning how to use Typescript within React applications.
 - Learning how to test React apps with unit tests. 
