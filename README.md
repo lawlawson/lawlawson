@@ -4,8 +4,8 @@ I am a Frontend Web Develpoper from London. I graduated with a Computer Science 
 
  
 #### My Github stats:
-[![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawlawson&count_private=true&show_icons=true&theme=dark)](https://github.com/lawlawson)
+[![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawlawson&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/lawlawson)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawlawson&count_private=true&theme=dark)](https://github.com/lawlawson)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawlawson&count_private=true&theme=dark&layout=compact)](https://github.com/lawlawson)
 
 
