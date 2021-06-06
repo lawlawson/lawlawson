@@ -14,6 +14,12 @@ I am a Frontend Web Develpoper from London. I graduated with a Computer Science 
 ### Frameworks 🤩
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](	https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white) ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![image](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](	https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+
+### Things I am working on now 🤓:
+- My portfolio site built using Next.js which will have an integrated blog.
+- I am currently trying to improve my React knowledge. 
+- Typescript.
+- Checkout my most recent blog post on Dev.to [100 Days of Code](https://dev.to/narhlawson/100-days-of-code-43dj)
  
 #### My Github stats:
 [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawlawson&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/lawlawson)
