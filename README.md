@@ -33,7 +33,7 @@ I am a Frontend Web Develpoper from London. I graduated with a Computer Science 
 - **Todo/Listing App** [Live Site](https://lawson-todo-app.netlify.app/)🚀 | [Repo](https://github.com/lawlawson/todo-app) 🏗
 - **Random Quote Generator** [Live Site](https://lawlawson.github.io/random-quote-machine/)🚀 | [Repo](https://github.com/lawlawson/random-quote-machine) 🏗
 - **JavaScript Technical Documentation** [Live Site](https://lawlawson.github.io/JavaScript-Technical-Documentation/)🚀 | [Repo](https://github.com/lawlawson/JavaScript-Technical-Documentation) 🏗
-- **Lawson Financial** [Live Site](https://github.com/lawlawson/lawson-financial)🚀 | [Repo](https://lawson-financial.vercel.app/index.html) 🏗
+- **Lawson Financial** [Live Site](https://lawson-financial.vercel.app/index.html)🚀 | [Repo](https://github.com/lawlawson/lawson-financial) 🏗
  
 ### Github stats:
 [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawlawson&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/lawlawson)
