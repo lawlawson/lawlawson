@@ -23,7 +23,7 @@ I am a Frontend Web Develpoper from London. I graduated with a Computer Science 
 - Frontend of a property website built using Next.js, React and Typescript on the frontend (Collaborating with other developers).
 - I have recently re-done my portfolio site which can be found [here](https://lawson-portfolio.netlify.app/).
 - Learning how to use Typescript within React applications.
-- Learning how to test React apps with unit tests. 
+- Learning how to test React apps with JEST and the react testing library. 
 - Solving coding problems on [Codewars](https://www.codewars.com/users/lawlawson) and [Exercism.io](https://exercism.io/profiles/lawlawson)
 
 
