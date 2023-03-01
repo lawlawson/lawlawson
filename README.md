@@ -1,5 +1,7 @@
 ![Header](./header.png)
 
+<p>Hi and welcome to my Github 😄 I love learning and have a passion for building cool and sometimes complex things, or even sometimes just playing around with CSS. Check out my latest blog posts or tweets below. My aim is to show my journey as I progress on this journey as a developer, so if you have any questions feel free to drop me a line.</p>
+
 <!-- BLOG-POST-LIST:START -->
 
 - [&lt;100 Days Of Code /&gt;](https://dev.to/lawlawson/100-days-of-code-43dj)
