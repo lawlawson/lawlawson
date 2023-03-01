@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [POD Request Access Landing Page]()
 
-
-
-### Blogs posts
+###  Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
