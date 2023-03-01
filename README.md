@@ -9,7 +9,6 @@
 📙 <strong>Latest Blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [&lt;100 Days Of Code /&gt;](https://dev.to/lawlawson/100-days-of-code-43dj)
 - [What Am I Learning &amp; Doing Now?](https://dev.to/lawlawson/what-am-i-learning-doing-now-3g11)
 - [Hello, world!](https://dev.to/lawlawson/hello-world-215e)
