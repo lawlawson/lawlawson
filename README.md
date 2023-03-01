@@ -1,4 +1,5 @@
 
+
 ####  Most recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [&lt;100 Days Of Code /&gt;](https://dev.to/lawlawson/100-days-of-code-43dj)
@@ -10,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawlawson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lawcodes)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lawsoncodes&layout=wide&show_border=on&show_reply=off)](https://github.com/gazf/github-readme-twitter)
