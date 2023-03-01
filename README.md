@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 
 ####  Most recent Blog posts
 <!-- BLOG-POST-LIST:START -->
