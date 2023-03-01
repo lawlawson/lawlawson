@@ -1,4 +1,4 @@
-<h1 align="center">Hello <span>&#9995;&#127998;</span></h1>
+<h1 align="center">Hello there <span>&#9995;&#127998;</span></h1>
 
 
 <p align="center">Thanks for coming</p>
@@ -14,8 +14,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
-https://www.codewars.com/users/lawlawson/badges/micro
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
