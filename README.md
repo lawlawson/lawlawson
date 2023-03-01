@@ -1,6 +1,12 @@
 ![Header](./header.png)
 
-<p>Hi and welcome to my Github 😄 I love learning and have a passion for building cool and sometimes complex things, or even sometimes just playing around with CSS. Check out my latest blog posts or tweets below. My aim is to show my journey as I progress on this journey as a developer, so if you have any questions feel free to drop me a line.</p>
+<br/>
+
+<p>Welcome 👋 to my Github 😄 I love learning and have a passion for building cool and sometimes complex things, or even sometimes just playing around with CSS. Check out my latest blog posts or tweets below. My aim is to show my journey as I progress on this journey as a developer, so if you have any questions feel free to drop me a line.</p>
+
+<br/>
+
+📙 <strong>Latest Blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
 
