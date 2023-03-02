@@ -2,7 +2,11 @@
 
 <br/>
 
-<p>Welcome 👋 to my Github 😄 I love learning and have a passion for building cool and sometimes complex things, or even sometimes just playing around with CSS. Check out my latest blog posts or tweets below. My aim is to show my journey as I progress on this journey as a developer, so if you have any questions feel free to drop me a line.</p>
+<p>Welcome 👋 to my Github 😄 I am a frontend web developer passionate about creating beautiful, functional websites and web applications. Experience with HTML, CSS, JavaScript, and React.js, I'm dedicated to building user-friendly interfaces that provide seamless experiences for all users.
+
+Currently, I'm actively seeking a new role as a frontend web developer where I can apply my skills and continue to learn and grow. I'm always eager to tackle new challenges and collaborate with others to build amazing projects.
+
+When I'm not coding, you can usually find me running 🏃‍♂️, climbing 🧗‍♂️ or in the gym 🏋️‍♂️. Thanks for stopping by my profile - feel free to check out my projects and get in touch if you're interested in working together!</p>
 
 <br/>
 
