@@ -1,10 +1,10 @@
-![Header](./header.png)
+<!-- ![Header](./header.png)
 
-<br/>
+<br/>  -->
 
-<p>Welcome 👋 to my GitHub! 😄 I am a Frontend Web Developer with a passion for crafting beautiful and functional websites and applications. Skilled in HTML, CSS, JavaScript, and React.js, I'm dedicated to developing user-friendly interfaces for an optimal user experience.
+<p>As an experienced Frontend Web Developer, I specialize in creating accessible, user-friendly, and optimized web solutions. I'm committed to enhancing my skills through continuous learning and personal projects, focusing on emerging technologies and innovative problem-solving.
 
-🚀 I'm currently seeking a Frontend Web Developer role where I can contribute my skills and continue to learn and grow. I love facing new challenges and collaborating on exciting projects.
+🚀 I am currently seeking a Frontend Web Developer role where I can contribute my skills and continue to learn and grow. I love facing new challenges and collaborating on exciting projects.
 
 📫 Feel free to reach out: [email](lawrencen@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/lawlawson/)
 
