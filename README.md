@@ -4,8 +4,6 @@
 
 <p>As an experienced Frontend Web Developer, I specialize in creating accessible, user-friendly, and optimized web solutions. I'm committed to enhancing my skills through continuous learning and personal projects, focusing on emerging technologies and innovative problem-solving.
 
-🚀 I am currently seeking a Frontend Web Developer role where I can contribute my skills and continue to learn and grow. I love facing new challenges and collaborating on exciting projects.
-
 📫 Feel free to reach out: [Email](lawrencen@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/lawlawson/)
 
 🔍 Check out my projects below! </p>
