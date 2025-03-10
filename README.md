@@ -2,7 +2,7 @@
 
 <br/>  -->
 
-<p>As an experienced Frontend Web Developer, I specialize in creating accessible, user-friendly, and optimized web solutions. I'm committed to enhancing my skills through continuous learning and personal projects, focusing on emerging technologies and innovative problem-solving.
+<p>An experienced Frontend Web Developer, I specialize in creating accessible, user-friendly, and optimized web solutions. I'm committed to enhancing my skills through continuous learning and personal projects, focusing on emerging technologies and innovative problem-solving.
 
 📫 Feel free to reach out: [Email](lawrencen@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/lawlawson/)
 
