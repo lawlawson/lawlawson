@@ -52,6 +52,3 @@ Let's build something amazing together!
 - [Hello, world!](https://dev.to/lawlawson/hello-world-215e)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
-<a href="https://app.daily.dev/lawlawson"><img src="https://api.daily.dev/devcards/v2/uszsxbHxw7zyDOZwBVa4I.png?r=p5r" width="356" alt="Lawrence Narh-Lawson's Dev Card"/></a>
