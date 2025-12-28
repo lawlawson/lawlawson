@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lawrence Narh-Lawson
+# 👋 Hi there, I'm Lawrence
 
 🎯 **Frontend Web Developer | JavaScript | React.js**
 
