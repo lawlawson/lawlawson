@@ -33,8 +33,6 @@ I'm currently open to new opportunities and would love to connect!
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/lawlawson/](https://www.linkedin.com/in/lawlawson/)
 
-Let's build something amazing together!
-
 ---
 
 <br/>
