@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lawrence
 
-🎯 **Frontend Web Developer | JavaScript | React.js**
+🎯 **Front-End Web Developer**
 
 I'm passionate about building accessible, user-friendly, and optimised web solutions. With a strong foundation in JavaScript and React.js, I focus on creating seamless user experiences, continuously enhancing my skills through personal projects and learning.
 
