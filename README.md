@@ -40,6 +40,7 @@ I'm currently open to new opportunities and would love to connect!
 📙 <strong>Latest Blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
+- [From Idea to Deployed App in Six Weeks: InterviewFlow](https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo)
 - [Why I Am Going Back To The Basics](https://dev.to/lawlawson/why-i-am-going-back-to-the-basics-3ibc)
 - [&lt;100 Days Of Code /&gt;](https://dev.to/lawlawson/100-days-of-code-43dj)
 - [What Am I Learning &amp; Doing Now?](https://dev.to/lawlawson/what-am-i-learning-doing-now-3g11)
